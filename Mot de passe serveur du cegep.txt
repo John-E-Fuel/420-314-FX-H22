@@ -1,0 +1,3 @@
+Code pour se connécté sur le serveur du cégep : 
+Non d'utilisateur : nbouazzaoui
+mode de passe : salam@102
