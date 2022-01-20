@@ -1,3 +1,7 @@
 Code pour se connécté sur le serveur du cégep : 
 Non d'utilisateur : nbouazzaoui
 mode de passe : salam@102
+
+mot de passe et non d'utilisateur pour accéder a la base de connaissance : 
+nom d'utilisateur : n.bouazzaoui@edu.cegepgarneau.ca
+mot de passe : Salam@102
