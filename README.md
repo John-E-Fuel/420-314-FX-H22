@@ -8,4 +8,7 @@ Lien pour la boutique Jaro : boutiquejaro.nboua.devwebgarneau.com
 Accéder à votre base de connaissance par le lien suivant :https://www.proprofskb.com/login/
 Une fois que vous êtes sur la base de connaissance vous pouvez trouver l'infrmation soit par la bare de recherche ou en cliquant sur le lien Home en haut a gauche puis documentation, a cette place vous aller trouver les informations sur votre certficat de sécuriter et la clé privée et publique ainsi que les informations pour la configuration de votre adresse mail. 
 
+mMt de passe et non d'utilisateur pour accéder a votre base de connaissance : 
+nom d'utilisateur : n.bouazzaoui@edu.cegepgarneau.ca
+mot de passe : Salam@102
 
