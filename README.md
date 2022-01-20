@@ -13,5 +13,7 @@ Mot de passe et non d'utilisateur pour accéder a votre base de connaissance :
 
 
 Nomm d'utilisateur : n.bouazzaoui@edu.cegepgarneau.ca
+
+
 Mot de passe : Salam@102
 
