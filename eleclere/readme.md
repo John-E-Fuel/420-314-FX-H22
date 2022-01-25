@@ -2,5 +2,5 @@ Il n'a pas été possible de configurer des nouveaux comptes FTP à cause du blo
 
 Protocole pour récupérer les informations sensibles :
 
-  - Vous connectez blabla bla
+  - Se connecter à Confluence, étant donné que j'ai un compte gratuit je n'ai pas pu mettre de restrictions sinon je l'aurais fais.
   
