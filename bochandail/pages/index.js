@@ -1,14 +1,13 @@
-import { Heading, Page, Button } from "@shopify/polaris";
+import { Heading, Page, Button, PlusMinor } from "@shopify/polaris";
 
 export default function Index() {
   return (
-    <Page>
-      <Heading>
-        Shopify app with Node and React{" "}
-        <span role="img" aria-label="tada emoji">
-          🎉
-        </span>
-      </Heading>
-    </Page>
+<Page
+  fullWidth
+  title="Product selector"
+  primaryAction={{content: 'Select Product', icon: PlusMinor}}
+>
+  <p>Wide page content</p>
+</Page>
   );
 }

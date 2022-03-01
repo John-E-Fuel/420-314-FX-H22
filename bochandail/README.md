@@ -37,3 +37,7 @@ Try it out with this command, understanding that things may not be totally stabl
 ## License
 
 This repository is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Cred
+username: will.gauvin@gmail.com
+mdp:
